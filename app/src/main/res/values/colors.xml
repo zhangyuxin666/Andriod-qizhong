@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 学号 2024110548 尾号为 8，字体颜色统一使用紫色 -->
+    <color name="purple">#6A1B9A</color>
+    <color name="purple_dark">#4A148C</color>
+    <color name="purple_mid">#8E24AA</color>
+    <color name="purple_soft">#A173BF</color>
+    <color name="purple_pale">#E9DDF2</color>
+    <color name="page_bg">#F7F2FB</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="divider">#EFE4F6</color>
+    <color name="white">#FFFFFF</color>
+</resources>
